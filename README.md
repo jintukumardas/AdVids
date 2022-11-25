@@ -12,8 +12,3 @@
 3. user can search, sort, filter products
 4. user can post, edit and delete their ads
 5. in-buit chat system to chat with the seller
-
-
-## Tech Stack
-MERN - MongoDB, Express, React and Node
-Cloud Deployment Server - Heroku
