@@ -14,6 +14,6 @@
 5. in-buit chat system to chat with the seller
 
 
-##Tech Stack
+## Tech Stack
 MERN - MongoDB, Express, React and Node
 Cloud Deployment Server - Heroku
